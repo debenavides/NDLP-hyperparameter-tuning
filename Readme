@@ -1,0 +1,3 @@
+Before running the NDLP hyperparameter tuning file, you must do two things: First, decompress the Preprocessed_dataset.csv dataset, and second, upload the glove.6B.50d.txt file to a Python notebook environment.
+
+The NDLP hyperparameter tuning file contains all the code to test each hyperparameter. For this, in the same code, you can find the comments corresponding to each Hyperparameter Determination and the values evaluated in each hyperparameter.
